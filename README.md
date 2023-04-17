@@ -23,7 +23,7 @@
 
  <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Saad-Akbar-1&theme=nord&title=MultiLanguage,Commits,&no-frame=true&margin-w=18">
  
-<img alt="Saad's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Saad-Akbar-1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
+<!-- <img alt="Saad's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Saad-Akbar-1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
 
 
 <details>
@@ -32,4 +32,4 @@
    
    <img alt="Saad's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Saad-Akbar-1&bg_color=1F222E&color=68C3D4&line=568EA3&point=FFE8D1&hide_border=true" width="100%">
    
-</details>
+</details> -->
