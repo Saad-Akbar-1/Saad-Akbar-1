@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ***[IDEA by Maiden Century](https://maidencentury.com)***
 - 🌱 I’m currently learning Advanced Django and React techniques.
-- 💬 Ask me about aything!
+- 💬 Ask me about anything!
 
 - Connect with me on LinkedIn :
    <a href="https://www.linkedin.com/in/saadakbar1/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Saad-Akbar-1" height="40" width="40" /></a> 
