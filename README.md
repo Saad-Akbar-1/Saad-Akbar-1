@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-   <img alt="Saad Akbar" src="https://readme-typing-svg.herokuapp.com/?lines=Saad+Akbar;Full-Stack+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Saad Akbar" src="https://readme-typing-svg.herokuapp.com/?lines=Saad+Akbar;Full-Stack+Engineer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 <h3> About Me </h3>
