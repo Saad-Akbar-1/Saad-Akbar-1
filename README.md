@@ -15,11 +15,7 @@
    <a href="https://www.linkedin.com/in/saadakbar1/" target="_blank"><img align="center" src="https://img.icons8.com/color/344/linkedin.png" alt="Saad-Akbar-1" height="40" width="40" /></a> 
 </p>
 
-<h3>🔥 Statistics :</h3>
 
-<img alt="Saad's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Saad-Akbar-1&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
-
- <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=Saad-Akbar-1&theme=nord&title=MultiLanguage,Commits,&no-frame=true&margin-w=18">
  
 <!-- <img alt="Saad's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Saad-Akbar-1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs&include_all_commits=true&custom_title=GitHub Stats"/>
 
